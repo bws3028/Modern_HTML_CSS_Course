@@ -1,1 +1,2 @@
-# Modern_HTML_CSS_Course
+# Modern HTML CSS Course
+Learning HTML & CSS from Udemy course
