@@ -2,9 +2,9 @@
 Learning HTML & CSS from Udemy Course
 
 # Schedule:
-[]Day 1 (2:26 - 4:52) {Time Taken: }:
-- Section 1: Introduction (0:27){}[]
-- Section 2: HTML Basics  (1:52){}[]
+[]Day 1 (2:26 - 4:52) {Time Taken: ?+}:
+- Section 1: Introduction (0:27){?}[*]
+- Section 2: HTML Basics  (1:52){?}[*]
 - Section 3: CSS Basics   (2:33){}[]
 
 []Day 2 (1:33 - 3:05) {Time Taken: }:
