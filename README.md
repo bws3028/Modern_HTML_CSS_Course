@@ -8,7 +8,7 @@ Learning HTML & CSS from Udemy Course
 - Section 3: CSS Basics   (2:33)[*]
 
 []Day 2 (1:33 - 3:05):
-- Section 4: Hotel Website               (1:35)[]
+- Section 4: Hotel Website               (1:35)[*]
 - Section 5: Intro to Responsive Layouts (1:08)[]
 - Section 6: Intro to Flexbox            (0:22)[]
 
