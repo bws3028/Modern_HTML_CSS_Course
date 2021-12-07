@@ -13,12 +13,12 @@ Learning HTML & CSS from Udemy Course
 - Section 6: Intro to Flexbox            (0:22)[*]
 
 []Day 3 (1:52 - 3:44):
-- Section 7: EdgeLedger Website - Flexbox     (1:44)[]
-- Section 8: Website Deployment - Shared Host (0:35)[]
-- Section 9: More CSS Concepts                (1:25)[]
+- Section 7: EdgeLedger Website - Flexbox     (1:44)[*]
+- Section 8: Website Deployment - Shared Host (0:35)[*]
+- Section 9: More CSS Concepts                (1:25)[*]
 
 []Day 4 (2:28 - 3:55):
-- Recreate EdgeLedger Website (1 Hour Time Limit)[]
+- Recreate EdgeLedger Website (1 Hour Time Limit)[canceled]
 - Section 10: Mini Projects With Keyframes, Transitions, etc. (2:14)[]
 - Section 11: CSS Grid                                        (0:40)[]
 
