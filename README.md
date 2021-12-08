@@ -19,7 +19,7 @@ Learning HTML & CSS from Udemy Course
 
 []Day 4 (2:28 - 3:55):
 - Recreate EdgeLedger Website (1 Hour Time Limit)[canceled]
-- Section 10: Mini Projects With Keyframes, Transitions, etc. (2:14)[]
+- Section 10: Mini Projects With Keyframes, Transitions, etc. (2:14)[*]
 - Section 11: CSS Grid                                        (0:40)[]
 
 []Day 5 (1:32 - 3:04):
